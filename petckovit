@@ -1,0 +1,2271 @@
+﻿<div class="desabilita_cel">
+</div>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+    <head>
+
+        
+
+
+
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "e1e0a92c-99aa-40c9-99f6-a86575708e3e",
+    });
+  });
+</script>
+
+<script type="text/javascript">
+  !function(e,t,r,n){if(!e[n]){for(var a=e[n]=[],i=["survey","reset","config","init","set","get","event","identify","track","page","screen","group","alias"],s=0;s<i.length;s++){var c=i[s];a[c]=a[c]||function(e){return function(){var t=Array.prototype.slice.call(arguments);a.push([e,t])}}(c)}a.SNIPPET_VERSION="1.0.1";var o=t.createElement("script");o.type="text/javascript",o.async=!0,o.src="https://d2yyd1h5u9mauk.cloudfront.net/integrations/web/v1/library/"+r+"/"+n+".js";var g=t.getElementsByTagName("script")[0];g.parentNode.insertBefore(o,g)}}(window,document,"gQgE5xrs7ZEXZXmW","delighted");
+
+  delighted.survey();
+</script>
+
+
+
+
+  <script data-cfasync="false" type="text/javascript" id="clever-core">
+                                    /* <![CDATA[ */
+                                    (function (document, window) {
+                                        var a, c = document.createElement("script"), f = window.frameElement;
+
+                                        c.id = "CleverCoreLoader61292";
+                                        c.src = "//scripts.cleverwebserver.com/7fbfd5d82c2761e6b418224c78267fb2.js";
+
+                                        c.async = !0;
+                                        c.type = "text/javascript";
+                                        c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+                                        c.setAttribute("data-callback", "put-your-callback-macro-here");
+
+                                        try {
+                                            a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+                                        } catch (e) {
+                                            a = !1;
+                                        }
+
+                                        a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+                                        a.parentNode.insertBefore(c, a);
+                                    })(document, window);
+                                    /* ]]> */
+                                </script>   
+
+
+
+
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v7.0&appId=528235600520895&autoLogAppEvents=1" nonce="dSBl7eG4"></script>
+
+
+
+
+
+<style>
+
+.box-cookies.hide {
+  display: none !important;
+
+
+}
+.box-cookies a {
+  color: #ffffff;
+  text-decoration: underline;
+  font-weight: bold;
+}
+.box-cookies a:hover {
+  color: #DB0404;
+}
+.box-cookies {
+  position: fixed;
+  background-color: #000000;
+  width: 100%;
+    z-index: 999999999999999;
+  bottom: 0;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.box-cookies .msg-cookies,
+.box-cookies .btn-cookies {
+  text-align: center;
+  max-width: 100%;
+    padding: 25px;
+  color: #fff;
+    font-family: arial;
+  font-size: 15px;
+}
+
+.box-cookies .btn-cookies {
+  background: #DB0404;
+  cursor: pointer;
+  border:0px;
+  align-self: normal;
+}
+
+@media screen and (max-width: 600px) {
+  .box-cookies {
+    flex-direction: column;
+  }
+}
+
+</style>
+
+
+<div class="box-cookies hide">
+   <p class="msg-cookies">Este site utiliza cookies e outras tecnologias semelhantes para melhorar a sua experiência, de acordo com as nossas <span style="text-decoration:underline"><a href="https://cordeiropolis.corderovirtual.com.br/politica-de-privacidade">Políticas de Privacidade</a></span> e ao continuar navegando, você concorda com estas condições.</p>
+   <button class="btn-cookies">Aceitar!</button>
+</div>
+
+
+<script>
+
+(() => {
+  if (!localStorage.pureJavaScriptCookies) {
+    document.querySelector(".box-cookies").classList.remove('hide');
+  }
+
+  const acceptCookies = () => {
+    document.querySelector(".box-cookies").classList.add('hide');
+    localStorage.setItem("pureJavaScriptCookies", "accept");
+  };
+
+  const btnCookies = document.querySelector(".btn-cookies");
+
+  btnCookies.addEventListener('click', acceptCookies);
+})();
+
+
+</script>
+
+
+
+
+
+
+
+<META NAME="Author" CONTENT="Creative Site https://www.creativesite.com.br" />
+
+<meta name="google-site-verification" content="U-AffOrhKESGD_xwSxWS1pbKJkVgDopomRNk4szMbJA" />
+
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-2465130485636619",
+          enable_page_level_ads: true
+     });
+</script>
+
+
+<link rel="stylesheet" href="https://cordeiropolis.corderovirtual.com.br/font-awesome/css/fontawesome.min.css">
+
+  <link href="https://cordeiropolis.corderovirtual.com.br/font-awesome/css/all.css" rel="stylesheet">
+
+
+
+
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" type="text/css" href="https://cordeiropolis.corderovirtual.com.br/estrutura/mobile.css" media="screen and (max-width: 767px)">
+<link rel="stylesheet" type="text/css" href="https://cordeiropolis.corderovirtual.com.br/estrutura/tablet.css" media="(min-width: 768px) and (max-width: 991px)">
+<link rel="stylesheet" type="text/css" href="https://cordeiropolis.corderovirtual.com.br/estrutura/estilos.css" media="all and (min-width: 961px)">
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://cordeiropolis.corderovirtual.com.br/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://cordeiropolis.corderovirtual.com.br/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://cordeiropolis.corderovirtual.com.br/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://cordeiropolis.corderovirtual.com.br/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://cordeiropolis.corderovirtual.com.br/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://cordeiropolis.corderovirtual.com.br/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://cordeiropolis.corderovirtual.com.br/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://cordeiropolis.corderovirtual.com.br/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://cordeiropolis.corderovirtual.com.br/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://cordeiropolis.corderovirtual.com.br/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://cordeiropolis.corderovirtual.com.br/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://cordeiropolis.corderovirtual.com.br/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://cordeiropolis.corderovirtual.com.br/favicon-16x16.png">
+<link rel="manifest" href="https://cordeiropolis.corderovirtual.com.br/manifest.json">
+<meta name="msapplication-TileColor" content="#E74C3C">
+<meta name="msapplication-TileImage" content="https://cordeiropolis.corderovirtual.com.br/ms-icon-144x144.png">
+<meta name="theme-color" content="#E74C3C">
+
+<script type="text/javascript" src="https://cordeiropolis.corderovirtual.com.br/lightbox/highslide/highslide-full.js"></script>
+<script type="text/javascript" src="https://cordeiropolis.corderovirtual.com.br/lightbox/tipo/tipo.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cordeiropolis.corderovirtual.com.br/lightbox/highslide/highslide.css" />
+
+ <script type="text/javascript" src="https://cordeiropolis.corderovirtual.com.br/jquery/banners2/jquery.min.js"></script>
+<script src="https://cordeiropolis.corderovirtual.com.br/jquery/jquery-1.4.3.min.js"></script>
+
+
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap" rel="stylesheet">
+
+
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-98489855-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type='text/javascript' language='Javascript'>
+var scrolltotop={
+//startline: Integer. Number of pixels from top of doc scrollbar is scrolled before showing control
+//scrollto: Keyword (Integer, or "Scroll_to_Element_ID"). How far to scroll document up when control is clicked on (1=top).
+setting: {startline:100, scrollto: 0, scrollduration:1000, fadeduration:[500, 100]},
+controlHTML: '<i class="fas fa-caret-up" id="seta_subir"></i>', //HTML for control, which is auto wrapped in DIV w/ ID="topcontrol"
+controlattrs: {offsetx:5, offsety:5}, //offset of control relative to right/ center of window corner
+anchorkeyword: '#top', //Enter href value of HTML anchors on the page that should also act as "Scroll Up" links
+state: {isvisible:false, shouldvisible:false},
+scrollup:function(){
+if (!this.cssfixedsupport) //if control is positioned using JavaScript
+this.$control.css({opacity:0}) //hide control immediately after clicking it
+var dest=isNaN(this.setting.scrollto)? this.setting.scrollto : parseInt(this.setting.scrollto)
+if (typeof dest=="string" && jQuery('#'+dest).length==1) //check element set by string exists
+dest=jQuery('#'+dest).offset().top
+else
+dest=0
+this.$body.animate({scrollTop: dest}, this.setting.scrollduration);
+},
+keepfixed:function(){
+var $window=jQuery(window)
+var controlx=$window.scrollLeft() + $window.width() - this.$control.width() - this.controlattrs.offsetx
+var controly=$window.scrollTop() + $window.height() - this.$control.height() - this.controlattrs.offsety
+this.$control.css({left:controlx+'px', top:controly+'px'})
+},
+togglecontrol:function(){
+var scrolltop=jQuery(window).scrollTop()
+if (!this.cssfixedsupport)
+this.keepfixed()
+this.state.shouldvisible=(scrolltop>=this.setting.startline)? true : false
+if (this.state.shouldvisible && !this.state.isvisible){
+this.$control.stop().animate({opacity:1}, this.setting.fadeduration[0])
+this.state.isvisible=true
+}
+else if (this.state.shouldvisible==false && this.state.isvisible){
+this.$control.stop().animate({opacity:0}, this.setting.fadeduration[1])
+this.state.isvisible=false
+}
+},
+init:function(){
+jQuery(document).ready(function($){
+var mainobj=scrolltotop
+var iebrws=document.all
+mainobj.cssfixedsupport=!iebrws || iebrws && document.compatMode=="CSS1Compat" && window.XMLHttpRequest //not IE or IE7+ browsers in standards mode
+mainobj.$body=(window.opera)? (document.compatMode=="CSS1Compat"? $('html') : $('body')) : $('html,body')
+mainobj.$control=$('<div id="topcontrol">'+mainobj.controlHTML+'</div>')
+.css({position:mainobj.cssfixedsupport? 'fixed' : 'absolute', bottom:mainobj.controlattrs.offsety, right:mainobj.controlattrs.offsetx, opacity:0, cursor:'pointer'})
+.attr({title:'Subir ao Topo!'})
+.click(function(){mainobj.scrollup(); return false})
+.appendTo('body')
+if (document.all && !window.XMLHttpRequest && mainobj.$control.text()!='') //loose check for IE6 and below, plus whether control contains any text
+mainobj.$control.css({width:mainobj.$control.width()}) //IE6- seems to require an explicit width on a DIV containing text
+mainobj.togglecontrol()
+$('a[href="' + mainobj.anchorkeyword +'"]').click(function(){
+mainobj.scrollup()
+return false
+})
+$(window).bind('scroll resize', function(e){
+mainobj.togglecontrol()
+})
+})
+}
+}
+scrolltotop.init()
+</script>
+
+
+
+
+
+
+<script>
+  (function (s, e, n, d, er) {
+    s['Sender'] = er;
+    s[er] = s[er] || function () {
+      (s[er].q = s[er].q || []).push(arguments)
+    }, s[er].l = 1 * new Date();
+    var a = e.createElement(n),
+        m = e.getElementsByTagName(n)[0];
+    a.async = 1;
+    a.src = d;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+  sender('3d61ea33cb1763')
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58ddc08dc5581326"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body onselectstart="return false">
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Disable
+function disableselect(e){
+return false
+}
+
+function reEnable(){
+return true
+}
+
+//if IE4+
+document.onselectstart=new Function ("return false")
+document.oncontextmenu=new Function ("return false")
+//if NS6
+if (window.sidebar){
+document.onmousedown=disableselect
+document.onclick=reEnable
+}
+//-->
+</script>
+
+
+
+        
+
+    </head>
+    <body>
+
+
+
+    <div id="topo_menor_inteiro2">
+
+        <div id="topo_menor_inteiro">
+
+
+
+
+
+
+
+
+<ul id="opcoes_menor">
+
+<li>    <li><p><a href="https://www.creativesite.com.br/criacao-de-lojas-virtuais"><i class="fas fa-shopping-cart"></i> TENHA A SUA LOJA VIRTUAL</a></p></li>
+    <li><p><a href="https://cordeiropolis.corderovirtual.com.br" title="Home"><i class="fas fa-caret-down"></i> Home</a></p></li>
+	<li><p><a href="https://cordeiropolis.corderovirtual.com.br/anuncie" title="Anuncie"><i class="fas fa-caret-down"></i> Anuncie</a></p></li>
+    <li><p><a href="https://cordeiropolis.corderovirtual.com.br/falecimentos-em-cordeiropolis" title="Falecimento em Cordeirópolis"><i class="fas fa-caret-down"></i> Falecimentos (1233)</a></p></li>
+    <li><p><a href="https://cordeiropolis.corderovirtual.com.br/audios" title="Samba Enredo"><i class="fas fa-caret-down"></i> Sambas Enredo</a></p></li>
+    <li><p><a href="https://cordeiropolis.corderovirtual.com.br/cadastro" title="Receba nossas novidades"><i class="fas fa-caret-down"></i> Receba nossas novidades</a></p></li>
+
+    <li><p><a href="https://www.facebook.com/corderovirtual/" title="Facebook"><i class="fab fa-facebook"></i></a></p></li>
+    <li><p><a href="https://twitter.com/corderovirtual" title="Twitter"><i class="fab fa-twitter"></i></a></p></li>
+    <li><p><a href="http://instagram.com/corderovirtual" title="Instagram"><i class="fab fa-instagram"></i></a></p></li>
+    <li><p><a href="https://www.youtube.com/channel/UC5DQ9JwH5Y3-xBTmhsiFpnw" title="Youtube"><i class="fab fa-youtube"></i></a></p></li>
+
+
+</ul>
+</div>
+
+    </div>
+
+<div id="topo1_inteiro">
+	<div id="topo1">
+		<div id="topo_esquerdo">
+	<a href="https://cordeiropolis.corderovirtual.com.br"><img alt="" id="logo" src="https://cordeiropolis.corderovirtual.com.br/imagens/logo.png"></a>
+</div>
+
+
+<div id="topo_direito">
+	<div id="banner_topo">
+		
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Topo_Topo2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="1753885879"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+
+	</div>
+</div>
+	</div>
+</div>
+
+
+<div id="menu1_inteiro">
+    <div id="menu1">
+        <div class="menu_topo_novo-container">
+    <ul class="menu_topo_novo clearfix">
+
+
+           <li><a href="https://www.corderovirtual.com.br" title="Página Inicial">HOME</a></li>
+        <li><a href="https://cordeiropolis.corderovirtual.com.br/noticias-online" title="Notícias">NOTÍCIAS</a></li>
+         <li><a href="https://cordeiropolis.corderovirtual.com.br/noticias-mais-lidas" title="Notícias mais Lidas">Mais Lidas</a></li>
+        <li><a href="https://cordeiropolis.corderovirtual.com.br/buscar-cep-de-cordeiropolis" title="Buscar Cep de Cordeirópolis">Buscar Cep</a></li>
+        <li><a href="https://cordeiropolis.corderovirtual.com.br/coberturas-de-eventos" title="Coberturas de Eventos">Fotos</a>
+        <li><a href="https://cordeiropolis.corderovirtual.com.br/falecimentos-em-cordeiropolis" title="Falecimentos em Cordeirópolis">FALECIMENTOS (1233)</a></li>
+        <li><a href="https://cordeiropolis.corderovirtual.com.br/colunistas" title="Colunistas">COLUNISTAS</a></li>
+        <li><a href="https://cordeiropolis.corderovirtual.com.br/fotos-antigas-de-cordeiropolis" title="Fotos Antigas de Cordeirópolis">Fotos Antigas</a></li>
+
+
+
+
+
+
+
+        <li><a href="#">DIVERSOS</a>
+            <!-- Nível 1 -->
+            <!-- submenu_topo_novo -->
+            <ul class="sub-menu_topo_novo clearfix">
+
+
+                <li><a href="https://cordeiropolis.corderovirtual.com.br/noticias/19613/transportes/onibus-do-transporte-publico-comecara-a-rodar-com-novos-horarios-em-cordeiropolis" title="Horários do Circular">Horários do Circular</a></li>
+
+
+                <li><a href="https://cordeiropolis.corderovirtual.com.br/buscar-conteudo" title="Busca">Buscar Conteúdo</a></li>
+                <li><a href="https://cordeiropolis.corderovirtual.com.br/sorteio" title="Busca">Sorteios</a></li>
+                <li><a href="https://cordeiropolis.corderovirtual.com.br/videos-cordero-virtual" title="Vídeos">Vídeos</a></li>
+                <li><a href="https://cordeiropolis.corderovirtual.com.br/audios" title="Áudio sobre Cordeirópolis">Áudios</a></li>
+                <li><a href="https://cordeiropolis.corderovirtual.com.br/previsao-do-tempo-para-cordeiropolis" title="Previsão do Tempo">Previsão do Tempo</a></li>
+
+                <li><a href="https://cordeiropolis.corderovirtual.com.br/cadastro" title="Faça o seu Cadastro">Faça o seu cadastro</a></li>
+                <li><a href="https://cordeiropolis.corderovirtual.com.br/anuncie" title="Anuncie Aqui">Anuncie Aqui</a></li>
+            </ul><!-- submenu_topo_novo -->
+        </li>
+
+        <li style=" padding: 1.5px;background-color: #DB0404;"><a style="color: #FFFFFF;" href="https://cordeiropolis.corderovirtual.com.br/buscar-conteudo" title="Buscar Conteúdo"><i class="fas fa-search"></i></a></li>
+    </ul>
+</div>
+</div>
+</div>
+
+
+
+<div id="topo_todas1">
+
+    <div id="topo_todas2">
+
+    
+<div class="desabilita_cel">
+
+<div id="busca_google">
+
+<script async src="https://cse.google.com/cse.js?cx=001922425182686116694:nvng4kmm_ni"></script>
+<div class="titulo_busca_google">REALIZAR BUSCA <i class="far fa-arrow-alt-circle-down"></i></div>
+
+<div class="gcse-search"></div>
+
+</div>
+</div>
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Topo_Topo2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="1753885879"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+    </div>
+</div>
+
+
+
+<div class="limpar"></div>
+
+
+
+<div class="desabilita_computador">
+
+		<div id="menu">
+			
+
+<style>
+
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+
+.container {
+    margin: 0 auto;
+    max-width: 80em;
+
+
+
+
+
+}
+
+
+main .container {
+    padding: 1em;
+
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40em;
+}
+
+.screen-reader-text {
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute !important;
+    width: 1px;
+
+}
+
+
+
+/************************************************/
+/****************** NAVIGATION ******************/
+/************************************************/
+nav {
+    background: #ffffff;
+    color: #1d1f20;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+}
+
+/*** INPUT ***/
+nav input {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+/*** LABEL ***/
+nav label {
+    cursor: pointer;
+    display: block;
+    font: 2em/1 'Oswald', sans-serif;
+    padding: 0.5em;
+
+}
+
+/* Hamburger Icon */
+#menu-icon,
+#menu-icon:before,
+#menu-icon:after {
+    background: #FF0000;
+    border-radius: 0.05em;
+
+    height: 0.2em;
+    transition: all 0.2s ease-in-out;
+    width: 100%;
+}
+
+#menu-icon {
+    display: inline-block;
+    margin: 0.4em 0;
+	margin-top: 25px;
+    max-width: 1em;
+    position: relative;
+    font-size: 19px;
+
+
+}
+
+nav label #menu-icon {
+    float: right;
+
+}
+
+#menu-icon:before,
+#menu-icon:after {
+    content: '';
+    left: 0;
+    position: absolute;
+}
+
+#menu-icon:before {
+    top: -0.4em;
+}
+
+#menu-icon:after {
+    bottom: -0.4em;
+}
+
+/* Close Icon */
+nav input[type=checkbox]:checked + label #menu-icon {
+    background: transparent;
+
+}
+
+nav input[type=checkbox]:checked + label #menu-icon:before {
+    top: 0;
+    transform: rotate(-45deg);
+}
+.vermelho2 {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #000000;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+
+    color: #FFFFFF;
+}
+.vermelho2 a {
+    color: #FFFFFF;
+}
+nav i {
+    width: 40px;
+    text-align: center;
+    color: #DB0404;
+}
+
+
+nav input[type=checkbox]:checked + label #menu-icon:after {
+    bottom: 0;
+
+    transform: rotate(45deg);
+}
+
+
+/*** MENU ***/
+/* Overlay */
+nav input:checked ~ #overlay {
+    background: #ffffff;
+    bottom: 0;
+
+    left: 0;
+
+    right: 0;
+    top: 0;
+    width: 100vw;
+    z-index: -1;
+}
+
+/* List */
+nav ul {
+    font-size: 1.5em;
+      background-color: #ffffff;
+    font-family: 'Rubik', sans-serif;
+    list-style: none;
+    margin: 0;
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    padding: 0;
+    text-align: left;
+}
+.borda_nova {
+      border: 1px solid #CCCCCC;
+}
+nav input:checked ~ ul {
+    margin: 1em;
+    max-height: inherit;
+    opacity: 1;
+}
+
+nav ul > li {
+    margin: 0.5em 0;
+}
+
+nav ul a {
+    color: #1d1f20!important;
+    text-decoration: none;
+}
+
+nav ul a:hover {
+    text-decoration: underline;
+}
+
+/* Social Media */
+nav ul#social-media > li {
+        display: inline-block;
+    font-size: 1.5em;
+    margin: 0.5em;
+    text-align: center;
+    font-size: 50px;
+}
+  </style>
+<script>
+  window.console = window.console || function(t) {};
+</script>
+<script>
+  if (document.location.search.match(/type=embed/gi)) {
+    window.parent.postMessage("resize", "*");
+  }
+</script>
+
+<nav>
+<div class="container">
+<input id="responsive-menu" type="checkbox">
+<label for="responsive-menu"><a href="https://www.corderovirtual.com.br"><img src="https://cordeiropolis.corderovirtual.com.br/imagens/logo.png" class="imagem_responsiva2"></a><span  id="menu-icon"></span></label>
+<div id="overlay"></div>
+<ul>
+<li><a href="https://cordeiropolis.corderovirtual.com.br/buscar-cep-de-cordeiropolis"><i class="far fa-sticky-note"></i> BUSCAR CEP</a></li>
+<li><a href="https://cordeiropolis.corderovirtual.com.br/noticias-online"><i class="far fa-sticky-note"></i> Notícias</a></li>
+<li><a href="https://cordeiropolis.corderovirtual.com.br/noticias-mais-lidas"><i class="far fa-copy"></i> Notícias Mais Lidas</a></li>
+
+<li><a href="https://cordeiropolis.corderovirtual.com.br/audios"><i class="far fa-file-video"></i> Sambas Enredo</a></li>
+
+
+<li><a href="https://cordeiropolis.corderovirtual.com.br/coberturas-de-eventos"><i class="fas fa-file-image"></i> Galeria de Fotos</a></li>
+<li><a href="https://cordeiropolis.corderovirtual.com.br/falecimentos-em-cordeiropolis"><i class="fas fa-cross"></i> Falecimentos</a></li>
+<li><a href="https://cordeiropolis.corderovirtual.com.br/colunistas"><i class="fas fa-user-edit"></i> Colunistas</a></li>
+
+<li><a href="https://cordeiropolis.corderovirtual.com.br/fotos-antigas-de-cordeiropolis"><i class="fas fa-camera-retro"></i> Fotos Antigas</a></li>
+<li><a href="https://cordeiropolis.corderovirtual.com.br/previsao-do-tempo-para-cordeiropolis"><i class="fas fa-cloud-sun"></i> Previsão do Tempo</a></li>
+<li><a href="https://cordeiropolis.corderovirtual.com.br/cadastro"><i class="fas fa-user-edit"></i> Faça o seu cadastro</a></li>
+
+
+<li><a href="https://cordeiropolis.corderovirtual.com.br/videos-cordero-virtual"><i class="far fa-file-video"></i> Vídeos</a></li>
+<li><a href="https://cordeiropolis.corderovirtual.com.br/noticias/19613/transportes/onibus-do-transporte-publico-comecara-a-rodar-com-novos-horarios-em-cordeiropolis"><i class="fas fa-bus"></i> Horários do Circular</a></li>
+<li><a href="https://cordeiropolis.corderovirtual.com.br/fale-conosco"><i class="fas fa-mail-bulk"></i> Fale Conosco</a></li>
+
+</ul>
+<ul id="social-media">
+
+    <li><div class="vermelho2"><a href="https://cordeiropolis.corderovirtual.com.br/anuncie">Anuncie no maior Portal de Cordeirópolis</a></div></li>
+<li>
+<a href="https://www.facebook.com/corderovirtual/">
+<i class="fab fa-facebook"></i>
+<span class="screen-reader-text">Dribbble</span>
+</a>
+</li>
+
+<li>
+<a href="https://twitter.com/corderovirtual">
+<i class="fab fa-twitter"></i>
+<span class="screen-reader-text">Twitter</span>
+</a>
+</li>
+
+<li>
+<a href="https://instagram.com/corderovirtual">
+<i class="fab fa-instagram"></i>
+<span class="screen-reader-text">Instagram</span>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<main>
+
+</main>
+
+		</div>
+
+ <div class="desabilita_computador">
+         <div class="menu_mobile_simples2"><div class="menu_mobile_simples1"><a href="https://cordeiropolis.corderovirtual.com.br/buscar-cep-de-cordeiropolis"><i class="fas fa-circle"></i> Buscar CEP</a></div>
+<div class="menu_mobile_simples1"><a href="https://cordeiropolis.corderovirtual.com.br/falecimentos-em-cordeiropolis"><i class="fas fa-circle"></i> Falecimentos (1233)</a></div>
+</div>
+     </div>
+
+	<div class="centraliza">
+
+
+
+
+                
+
+
+
+
+   <div class="espaco_cel1"></div>
+
+
+
+<div id="busca_google">
+
+<script async src="https://cse.google.com/cse.js?cx=001922425182686116694:nvng4kmm_ni"></script>
+<div class="titulo_busca_google">REALIZAR BUSCA <i class="far fa-arrow-alt-circle-down"></i></div>
+
+<div class="gcse-search"></div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+  <div class="espaco2"></div>
+ <div class="centraliza">
+    <!-- Banner Nome: Mobile -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Topo_Topo2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="1753885879"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+
+
+
+
+
+
+
+</div>
+
+<div class="espaco_cel1"></div>
+
+
+
+    </div>
+</div>
+<div class="limpar"></div>
+
+
+
+
+        
+        <div id="pagina">
+
+            
+
+
+
+<div id="esquerdo_interna">
+
+
+﻿
+
+
+
+
+
+
+
+<META NAME="Author" CONTENT="Creative Site www.creativesite.com.br" />
+
+<title>18 anos: Petkovic relembra gol de falta pelo Flamengo na final contra o Vasco - Portal Cordero Virtual</title>
+<META NAME="description" CONTENT="Em memória deste feito, o próprio craque postou em sua rede social fotos daquele momento e escreveu: “18 anos passaram voando, como se fosse anteontem, momento inesquecível da minha carreira, obrigado a todos que lembram e ficam ainda emocionados. 27/05/2001”." />
+<META NAME="keywords" CONTENT="Em memória deste feito, o próprio craque postou em sua rede social fotos daquele momento e escreveu: “18 anos passaram voando, como se fosse anteontem, momento inesquecível da minha carreira, obrigado a todos que lembram e ficam ainda emocionados. 27/05/2001”." />
+
+<h1>18 anos: Petkovic relembra gol de falta pelo Flamengo na final contra o Vasco</h1>
+<h2>Em memória deste feito, o próprio craque postou em sua rede social fotos daquele momento e escreveu: “18 anos passaram voando, como se fosse anteontem, momento inesquecível da minha carreira, obrigado a todos que lembram e ficam ainda emocionados. 27/05/2001”.</h2>
+
+
+
+<div id="data_hora"><i class="far fa-calendar-alt"></i> 31/05/2019 <i class="far fa-clock"></i> 06:00:01</div>
+<div class="espaco1"></div>
+
+
+<style>
+.BUTTON_JXP {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Tahoma;
+   font-size: 15px;
+   font-weight: bold;
+   font-weight: 800;
+   
+   text-transform: uppercase;
+   padding: 15px;
+   background-color: #DB0404;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+	width: 49%;
+	 float: left;
+
+}
+
+.BUTTON_JXP2 {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Tahoma;
+   font-size: 15px;
+   font-weight: bold;
+   font-weight: 800;
+   text-transform: uppercase;
+   padding: 15px;
+   background-color: #27B245;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+	width: 49%;
+	 float: right;
+
+}
+
+.BUTTON_JXP2:hover {
+   background: #26CC64;
+   border: solid #000000 0;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.BUTTON_JXP:hover {
+   background: #000000;
+   border: solid #000000 0;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.espaco_news {
+	margin: 0 auto 0 auto;
+	width: 90%;
+}
+</style>
+<div class="espaco1"></div>
+<div class="espaco1"></div>
+<div class="espaco_news">
+
+
+<center>
+<a href="https://cordeiropolis.corderovirtual.com.br/cadastro"><div class="BUTTON_JXP"><i class="fas fa-envelope"></i> NOVIDADES POR E-MAIL</div></a>
+</center>
+
+
+<center>
+<a href="https://chat.whatsapp.com/CZyCrMhgsaM8tnToz0wx8x"><div class="BUTTON_JXP2"><i class="fab fa-whatsapp"></i> NOVIDADES POR WHATSAPP</div></a>
+</center>
+
+
+</div>
+<div class="limpar"></div>
+<div class="espaco1"></div>
+<div class="espaco2"></div>
+
+  <div class="centraliza">
+      <span class="negrito">Compartilhe:</span>
+      <div class="espaco1"></div>
+        
+       <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox_19fy"></div>
+       
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="espaco1"></div>
+
+  <div class="desabilita_computador">
+
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Abaixo do Menu -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="8875456703"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+    </div>
+
+
+<div class="espaco1"></div>
+
+
+<div class="centraliza">
+
+    
+<link rel="canonical" href="https://cordeiropolis.corderovirtual.com.br/noticias/14360/esportes/18-anos-petkovic-relembra-gol-de-falta-pelo-flamengo-na-final-contra-o-vasco" />
+<meta property="og:locale" content="pt_PT" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://cordeiropolis.corderovirtual.com.br/foto_maior/14360/20190530115854.jpg" />
+<meta property="og:title" content="18 anos: Petkovic relembra gol de falta pelo Flamengo na final contra o Vasco" />
+<meta property="og:site_name" content="Portal Cordero Virtual" />
+<meta property="article:publisher" content="https://www.facebook.com/corderovirtual/" />
+<meta property="og:description" content="Em memória deste feito, o próprio craque postou em sua rede social fotos daquele momento e escreveu: “18 anos passaram voando, como se fosse anteontem, momento inesquecível da minha carreira, obrigado a todos que lembram e ficam ainda emocionados. 27/05/2001”." />
+<meta property="og:image" content="https://cordeiropolis.corderovirtual.com.br/foto_maior/14360/20190530115854.jpg" />
+<meta property="og:image:secure_url" content="https://cordeiropolis.corderovirtual.com.br/foto_maior/14360/20190530115854.jpg" />
+<meta property="og:image:width" content="705" />
+<meta property="og:image:height" content="531" />
+<meta property="article:author" content="Portal Cordero Virtual">
+<meta property="article:tag" content="Em memória deste feito, o próprio craque postou em sua rede social fotos daquele momento e escreveu: “18 anos passaram voando, como se fosse anteontem, momento inesquecível da minha carreira, obrigado a todos que lembram e ficam ainda emocionados. 27/05/2001”.">
+<meta property="article:published_time" content="2019-05-31 06:00:01">
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Em memória deste feito, o próprio craque postou em sua rede social fotos daquele momento e escreveu: “18 anos passaram voando, como se fosse anteontem, momento inesquecível da minha carreira, obrigado a todos que lembram e ficam ainda emocionados. 27/05/2001”." />
+<meta name="twitter:title" content="18 anos: Petkovic relembra gol de falta pelo Flamengo na final contra o Vasco" />
+<meta name="twitter:site" content="@creativesitebr" />
+<meta name="twitter:image" content="https://cordeiropolis.corderovirtual.com.br/foto_maior/14360/20190530115854.jpg" />
+<meta name="twitter:creator" content="@corderovirtual" />
+
+    <div class="desabilita_cel">
+
+        <a title="18 anos: Petkovic relembra gol de falta pelo Flamengo na final contra o Vasco" href="https://cordeiropolis.corderovirtual.com.br/foto_maior/14360/20190530115854.jpg" title="" class="highslide" onclick="return hs.expand(this)"><img class="fotos_noticias" alt="18 anos: Petkovic relembra gol de falta pelo Flamengo na final contra o Vasco" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/14360/20190530115854.jpg" alt="" /></a>
+
+                 <div class="espaco1"></div> <div class="espaco1"></div> <div class="espaco1"></div>
+        
+
+
+
+    </div>
+
+
+    <div class="desabilita_computador">
+
+        <img alt="18 anos: Petkovic relembra gol de falta pelo Flamengo na final contra o Vasco" class="fotos_noticias" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/14360/20190530115854.jpg" alt="" />
+
+        
+
+
+
+    </div>
+
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="noticia">
+
+
+
+       <div class="flutua_esquerdo_colunista">
+
+
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Conteúdo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:300px"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="7383742872"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+
+    </div>
+
+
+    <div>Um dos gols mais importantes da história do Flamengo completou 18 anos nesta segunda-feira (27). O gol marcado por Dejan Petkovic, em cobrança de falta, na final do <a href="https://www.creativesite.com.br/criacao-de-sites-no-rio-de-janeiro" title="" target=""><u><b><font color="#0000ff">Campeonato Carioca</font></b></u></a> de 2001 contra o Vasco.</div><div><br></div><div>Em memória deste feito, o próprio craque postou em sua rede social fotos daquele momento e escreveu: “18 anos passaram voando, como se fosse anteontem, momento inesquecível da minha carreira, obrigado a todos que lembram e ficam ainda emocionados. 27/05/2001”.</div><div><br></div><div>Com um público de 60.038 torcedores que lotava o Maracanã, Petkovic realizou a proeza que escreveria seu nome na história do futebol nacional e nos corações da torcida flamenguista. Na ocasião, o Flamengo precisava vencer por dois gols de diferença para conquistar o título estadual. O Vasco havia vencido o jogo de ida por 2 a 1. E até os 43 minutos da segunda etapa o placar apontava 2 a 1 para o Rubro-Negro. Até que o então camisa 10 flamenguista fez o gol que garantiu o título do Cariocão de 2001.</div>
+    <div class="espaco1"></div><div class="espaco1"></div>
+
+
+
+
+    <div class="espaco2"></div>
+    
+
+
+
+
+    <div class="espaco1"></div>
+
+    <div class="desabilita_cel">
+
+        
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="1152168913"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+    </div>
+
+
+
+    <div class="desabilita_computador">
+
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Abaixo do Menu -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="8875456703"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="espaco1"></div>
+<div class="centraliza">
+
+    
+    <div class="desabilita_cel">
+
+        
+
+    </div>
+
+    <div class="desabilita_computador">
+            </div>
+
+
+
+    
+    <div class="desabilita_computador">
+
+        ﻿<div class="centraliza">
+    
+         
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+            
+              
+    
+    
+
+    
+        
+        
+        
+        
+
+
+
+
+
+</div>
+
+
+
+
+
+
+    </div>
+
+
+
+    
+</div>
+
+
+
+
+<div class="centraliza">
+    
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="espaco2"></div>
+<div id="creditos"><span class="negrito">Foto(s):</span> MF Press Global</div>
+
+<div id="fonte"><span class="negrito">Fonte:</span> MF Press Global</div>
+
+
+<div class="espaco2"></div>
+<style>
+.BUTTON_JXP {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Tahoma;
+   font-size: 15px;
+   font-weight: bold;
+   font-weight: 800;
+   
+   text-transform: uppercase;
+   padding: 15px;
+   background-color: #DB0404;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+	width: 49%;
+	 float: left;
+
+}
+
+.BUTTON_JXP2 {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Tahoma;
+   font-size: 15px;
+   font-weight: bold;
+   font-weight: 800;
+   text-transform: uppercase;
+   padding: 15px;
+   background-color: #27B245;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+	width: 49%;
+	 float: right;
+
+}
+
+.BUTTON_JXP2:hover {
+   background: #26CC64;
+   border: solid #000000 0;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.BUTTON_JXP:hover {
+   background: #000000;
+   border: solid #000000 0;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.espaco_news {
+	margin: 0 auto 0 auto;
+	width: 90%;
+}
+</style>
+<div class="espaco1"></div>
+<div class="espaco1"></div>
+<div class="espaco_news">
+
+
+<center>
+<a href="https://cordeiropolis.corderovirtual.com.br/cadastro"><div class="BUTTON_JXP"><i class="fas fa-envelope"></i> NOVIDADES POR E-MAIL</div></a>
+</center>
+
+
+<center>
+<a href="https://chat.whatsapp.com/CZyCrMhgsaM8tnToz0wx8x"><div class="BUTTON_JXP2"><i class="fab fa-whatsapp"></i> NOVIDADES POR WHATSAPP</div></a>
+</center>
+
+
+</div>
+<div class="limpar"></div>
+
+<div class="espaco2"></div>
+
+  <div class="centraliza">
+      <span class="negrito">Compartilhe:</span>
+      <div class="espaco1"></div>
+        
+       <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox_19fy"></div>
+       
+    </div>
+
+
+
+
+<div class="espaco2"></div>
+<div class="espaco2"></div>
+<div class="espaco2"></div>
+<div class="espaco2"></div>
+<div class="divisao"><span class="divisao2">ÚLTIMAS NOTÍCIAS</span></div>
+
+<div class="espaco2"></div>
+
+
+<div class="desabilita_cel">
+
+		<ul id="lista_noticias">
+	
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+
+
+
+
+			
+
+			<a title="Homenagens e música marcam a tarde do CCI em comemoração ao Dia dos Pais" href="https://cordeiropolis.corderovirtual.com.br/noticias/21320/local/homenagens-e-musica-marcam-a-tarde-do-cci-em-comemoracao-ao-dia-dos-pais"><img class="fotos_menores_internas" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21320/homenagens-e-musica-marcam-a-tarde-do-cci-em-comemoracao-ao-dia-dos-pais-20220812113710dd69528487fdeb9e8b672f41197d5f82-.jpg" alt="Homenagens e música marcam a tarde do CCI em comemoração ao Dia dos Pais" /></a>
+
+			</div>
+
+<div class="titulo_noticia_interna"><a title="Homenagens e música marcam a tarde do CCI em comemoração ao Dia dos Pais" href="https://cordeiropolis.corderovirtual.com.br/noticias/21320/local/homenagens-e-musica-marcam-a-tarde-do-cci-em-comemoracao-ao-dia-dos-pais"><div class="categoria_laranja">Local</div><div class="espaco1"></div> Homenagens e música marcam a tarde do CCI em comemoração ao Dia dos Pais</a></div>
+
+
+
+		</li>
+
+				
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+
+
+
+
+			
+
+			<a title="Equipes de Saúde de Cordeirópolis recebem equipamento de segurança" href="https://cordeiropolis.corderovirtual.com.br/noticias/21319/saude/equipes-de-saude-de-cordeiropolis-recebem-equipamento-de-seguranca"><img class="fotos_menores_internas" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21319/equipes-de-saude-de-cordeiropolis-recebem-equipamento-de-seguranca-202208121134445d1218755be3f04f0a2dad3e03fad185-.jpg" alt="Equipes de Saúde de Cordeirópolis recebem equipamento de segurança" /></a>
+
+			</div>
+
+<div class="titulo_noticia_interna"><a title="Equipes de Saúde de Cordeirópolis recebem equipamento de segurança" href="https://cordeiropolis.corderovirtual.com.br/noticias/21319/saude/equipes-de-saude-de-cordeiropolis-recebem-equipamento-de-seguranca"><div class="categoria_laranja">Saúde</div><div class="espaco1"></div> Equipes de Saúde de Cordeirópolis recebem equipamento de segurança</a></div>
+
+
+
+		</li>
+
+				
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+
+
+
+
+			
+
+			<a title="Entidade que atua de forma solidária é homenageada pela Câmara de Limeira" href="https://cordeiropolis.corderovirtual.com.br/noticias/21318/regiao/entidade-que-atua-de-forma-solidaria-e-homenageada-pela-camara-de-limeira"><img class="fotos_menores_internas" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21318/entidade-que-atua-de-forma-solidaria-e-homenageada-pela-camara-de-limeira-202208121132410ee5c52d7bd4104d66e6226594b79aa5-.jpeg" alt="Entidade que atua de forma solidária é homenageada pela Câmara de Limeira" /></a>
+
+			</div>
+
+<div class="titulo_noticia_interna"><a title="Entidade que atua de forma solidária é homenageada pela Câmara de Limeira" href="https://cordeiropolis.corderovirtual.com.br/noticias/21318/regiao/entidade-que-atua-de-forma-solidaria-e-homenageada-pela-camara-de-limeira"><div class="categoria_laranja">Região</div><div class="espaco1"></div> Entidade que atua de forma solidária é homenageada pela Câmara de Limeira</a></div>
+
+
+
+		</li>
+
+				
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+
+
+
+
+			
+
+			<a title="Motoristas de Ônibus Escolares de Cordeirópolis recebem equipamento de proteção" href="https://cordeiropolis.corderovirtual.com.br/noticias/21317/local/motoristas-de-onibus-escolares-de-cordeiropolis-recebem-equipamento-de-protecao"><img class="fotos_menores_internas" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21317/motoristas-de-onibus-escolares-de-cordeiropolis-recebem-equipamento-de-protecao-20220812113000c2d5e269532536ea896623bcc5435f7c-.jpg" alt="Motoristas de Ônibus Escolares de Cordeirópolis recebem equipamento de proteção" /></a>
+
+			</div>
+
+<div class="titulo_noticia_interna"><a title="Motoristas de Ônibus Escolares de Cordeirópolis recebem equipamento de proteção" href="https://cordeiropolis.corderovirtual.com.br/noticias/21317/local/motoristas-de-onibus-escolares-de-cordeiropolis-recebem-equipamento-de-protecao"><div class="categoria_laranja">Local</div><div class="espaco1"></div> Motoristas de Ônibus Escolares de Cordeirópolis recebem equipamento de proteção</a></div>
+
+
+
+		</li>
+
+				
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+
+
+
+
+			
+
+			<a title="Limeira participa de reunião da Região da Serra do Itaqueri" href="https://cordeiropolis.corderovirtual.com.br/noticias/21316/turismo/limeira-participa-de-reuniao-da-regiao-da-serra-do-itaqueri"><img class="fotos_menores_internas" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21316/limeira-participa-de-reuniao-da-regiao-da-serra-do-itaqueri-202208121123367356bdc23beb7256a09ed47162606bc1-.jpeg" alt="Limeira participa de reunião da Região da Serra do Itaqueri" /></a>
+
+			</div>
+
+<div class="titulo_noticia_interna"><a title="Limeira participa de reunião da Região da Serra do Itaqueri" href="https://cordeiropolis.corderovirtual.com.br/noticias/21316/turismo/limeira-participa-de-reuniao-da-regiao-da-serra-do-itaqueri"><div class="categoria_laranja">Turismo</div><div class="espaco1"></div> Limeira participa de reunião da Região da Serra do Itaqueri</a></div>
+
+
+
+		</li>
+
+				
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+
+
+
+
+			
+
+			<a title="Cemitérios de Limeira devem receber 7 mil visitantes no fim de semana" href="https://cordeiropolis.corderovirtual.com.br/noticias/21315/regiao/cemiterios-de-limeira-devem-receber-7-mil-visitantes-no-fim-de-semana"><img class="fotos_menores_internas" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21315/cemiterios-de-limeira-devem-receber-7-mil-visitantes-no-fim-de-semana-20220812112141372605686a62ca3ac56522d39953e20a-.jpg" alt="Cemitérios de Limeira devem receber 7 mil visitantes no fim de semana" /></a>
+
+			</div>
+
+<div class="titulo_noticia_interna"><a title="Cemitérios de Limeira devem receber 7 mil visitantes no fim de semana" href="https://cordeiropolis.corderovirtual.com.br/noticias/21315/regiao/cemiterios-de-limeira-devem-receber-7-mil-visitantes-no-fim-de-semana"><div class="categoria_laranja">Região</div><div class="espaco1"></div> Cemitérios de Limeira devem receber 7 mil visitantes no fim de semana</a></div>
+
+
+
+		</li>
+
+				
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+
+
+
+
+			
+
+			<a title="Cordeirópolis conquista medalha de prata em Campeonato Paulista de Luta de Braço" href="https://cordeiropolis.corderovirtual.com.br/noticias/21314/esportes/cordeiropolis-conquista-medalha-de-prata-em-campeonato-paulista-de-luta-de-braco"><img class="fotos_menores_internas" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21314/cordeiropolis-conquista-medalha-de-prata-em-campeonato-paulista-de-luta-de-braco-20220812065815f5f5b9dedf8b6dec00e6fef5ba7c7380-.jpg" alt="Cordeirópolis conquista medalha de prata em Campeonato Paulista de Luta de Braço" /></a>
+
+			</div>
+
+<div class="titulo_noticia_interna"><a title="Cordeirópolis conquista medalha de prata em Campeonato Paulista de Luta de Braço" href="https://cordeiropolis.corderovirtual.com.br/noticias/21314/esportes/cordeiropolis-conquista-medalha-de-prata-em-campeonato-paulista-de-luta-de-braco"><div class="categoria_laranja">Esportes</div><div class="espaco1"></div> Cordeirópolis conquista medalha de prata em Campeonato Paulista de Luta de Braço</a></div>
+
+
+
+		</li>
+
+				
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+
+
+
+
+			
+
+			<a title="Corretora de luxo brasileira é convidada para seleto evento ‘40 under 40’, em Nova York" href="https://cordeiropolis.corderovirtual.com.br/noticias/21313/brasil/corretora-de-luxo-brasileira-e-convidada-para-seleto-evento-40-under-40-em-nova-york"><img class="fotos_menores_internas" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21313/corretora-de-luxo-brasileira-e-convidada-para-seleto-evento-40-under-40-em-nova-york-20220812065616133b174d6c62256fc47c859dae00e92e-.jpeg" alt="Corretora de luxo brasileira é convidada para seleto evento ‘40 under 40’, em Nova York" /></a>
+
+			</div>
+
+<div class="titulo_noticia_interna"><a title="Corretora de luxo brasileira é convidada para seleto evento ‘40 under 40’, em Nova York" href="https://cordeiropolis.corderovirtual.com.br/noticias/21313/brasil/corretora-de-luxo-brasileira-e-convidada-para-seleto-evento-40-under-40-em-nova-york"><div class="categoria_laranja">Brasil</div><div class="espaco1"></div> Corretora de luxo brasileira é convidada para seleto evento ‘40 under 40’, em Nova York</a></div>
+
+
+
+		</li>
+
+				
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+
+
+
+
+			
+
+			<a title="O valor de um abraço" href="https://cordeiropolis.corderovirtual.com.br/noticias/21312/cultura/o-valor-de-um-abraco"><img class="fotos_menores_internas" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21312/o-valor-de-um-abraco-20220812065005d53b769e7f05a0cbbbc17a322fc4391e-.jpg" alt="O valor de um abraço" /></a>
+
+			</div>
+
+<div class="titulo_noticia_interna"><a title="O valor de um abraço" href="https://cordeiropolis.corderovirtual.com.br/noticias/21312/cultura/o-valor-de-um-abraco"><div class="categoria_laranja">Cultura</div><div class="espaco1"></div> O valor de um abraço</a></div>
+
+
+
+		</li>
+
+				
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+
+
+
+
+			
+
+			<a title="Estudantes da rede municipal de Limeira visitam “Casa Mais Sustentável”" href="https://cordeiropolis.corderovirtual.com.br/noticias/21311/educacao/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel"><img class="fotos_menores_internas" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21311/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel-20220812064644249ccb158c59d67d4dfa33d874fb0c4a-.jpg" alt="Estudantes da rede municipal de Limeira visitam “Casa Mais Sustentável”" /></a>
+
+			</div>
+
+<div class="titulo_noticia_interna"><a title="Estudantes da rede municipal de Limeira visitam “Casa Mais Sustentável”" href="https://cordeiropolis.corderovirtual.com.br/noticias/21311/educacao/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel"><div class="categoria_laranja">Educação</div><div class="espaco1"></div> Estudantes da rede municipal de Limeira visitam “Casa Mais Sustentável”</a></div>
+
+
+
+		</li>
+
+					</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="desabilita_computador">
+
+
+		<ul id="lista_noticias">
+	            <div class="borda_mobile">
+
+     
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+			                        <div class="titulo_noticias1"><a title="Homenagens e música marcam a tarde do CCI em comemoração ao Dia dos Pais" href="https://cordeiropolis.corderovirtual.com.br/noticias/21320/local/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel"><div class="categoria_laranja">Local</div><div class="espaco1"></div>Homenagens e música marcam a tarde do CCI em comemoração ao Dia dos Pais</a></div>
+
+			<a  title="Homenagens e música marcam a tarde do CCI em comemoração ao Dia dos Pais" href="https://cordeiropolis.corderovirtual.com.br/noticias/21320/local/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel">
+			<img class="fotos_noticias1" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21320/homenagens-e-musica-marcam-a-tarde-do-cci-em-comemoracao-ao-dia-dos-pais-20220812113710dd69528487fdeb9e8b672f41197d5f82-.jpg" alt="Homenagens e música marcam a tarde do CCI em comemoração ao Dia dos Pais" /></a>
+
+			</div>
+
+
+
+
+
+		</li>
+                                        </div>
+  <div class="espaco1"></div>
+
+				            <div class="borda_mobile">
+
+     
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+			                        <div class="titulo_noticias1"><a title="Equipes de Saúde de Cordeirópolis recebem equipamento de segurança" href="https://cordeiropolis.corderovirtual.com.br/noticias/21319/saude/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel"><div class="categoria_laranja">Saúde</div><div class="espaco1"></div>Equipes de Saúde de Cordeirópolis recebem equipamento de segurança</a></div>
+
+			<a  title="Equipes de Saúde de Cordeirópolis recebem equipamento de segurança" href="https://cordeiropolis.corderovirtual.com.br/noticias/21319/saude/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel">
+			<img class="fotos_noticias1" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21319/equipes-de-saude-de-cordeiropolis-recebem-equipamento-de-seguranca-202208121134445d1218755be3f04f0a2dad3e03fad185-.jpg" alt="Equipes de Saúde de Cordeirópolis recebem equipamento de segurança" /></a>
+
+			</div>
+
+
+
+
+
+		</li>
+                                        </div>
+  <div class="espaco1"></div>
+
+				            <div class="borda_mobile">
+
+     
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+			                        <div class="titulo_noticias1"><a title="Entidade que atua de forma solidária é homenageada pela Câmara de Limeira" href="https://cordeiropolis.corderovirtual.com.br/noticias/21318/regiao/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel"><div class="categoria_laranja">Região</div><div class="espaco1"></div>Entidade que atua de forma solidária é homenageada pela Câmara de Limeira</a></div>
+
+			<a  title="Entidade que atua de forma solidária é homenageada pela Câmara de Limeira" href="https://cordeiropolis.corderovirtual.com.br/noticias/21318/regiao/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel">
+			<img class="fotos_noticias1" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21318/entidade-que-atua-de-forma-solidaria-e-homenageada-pela-camara-de-limeira-202208121132410ee5c52d7bd4104d66e6226594b79aa5-.jpeg" alt="Entidade que atua de forma solidária é homenageada pela Câmara de Limeira" /></a>
+
+			</div>
+
+
+
+
+
+		</li>
+                                        </div>
+  <div class="espaco1"></div>
+
+				            <div class="borda_mobile">
+
+     
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+			                        <div class="titulo_noticias1"><a title="Motoristas de Ônibus Escolares de Cordeirópolis recebem equipamento de proteção" href="https://cordeiropolis.corderovirtual.com.br/noticias/21317/local/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel"><div class="categoria_laranja">Local</div><div class="espaco1"></div>Motoristas de Ônibus Escolares de Cordeirópolis recebem equipamento de proteção</a></div>
+
+			<a  title="Motoristas de Ônibus Escolares de Cordeirópolis recebem equipamento de proteção" href="https://cordeiropolis.corderovirtual.com.br/noticias/21317/local/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel">
+			<img class="fotos_noticias1" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21317/motoristas-de-onibus-escolares-de-cordeiropolis-recebem-equipamento-de-protecao-20220812113000c2d5e269532536ea896623bcc5435f7c-.jpg" alt="Motoristas de Ônibus Escolares de Cordeirópolis recebem equipamento de proteção" /></a>
+
+			</div>
+
+
+
+
+
+		</li>
+                                        </div>
+  <div class="espaco1"></div>
+
+				            <div class="borda_mobile">
+
+     
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+			                        <div class="titulo_noticias1"><a title="Limeira participa de reunião da Região da Serra do Itaqueri" href="https://cordeiropolis.corderovirtual.com.br/noticias/21316/turismo/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel"><div class="categoria_laranja">Turismo</div><div class="espaco1"></div>Limeira participa de reunião da Região da Serra do Itaqueri</a></div>
+
+			<a  title="Limeira participa de reunião da Região da Serra do Itaqueri" href="https://cordeiropolis.corderovirtual.com.br/noticias/21316/turismo/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel">
+			<img class="fotos_noticias1" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21316/limeira-participa-de-reuniao-da-regiao-da-serra-do-itaqueri-202208121123367356bdc23beb7256a09ed47162606bc1-.jpeg" alt="Limeira participa de reunião da Região da Serra do Itaqueri" /></a>
+
+			</div>
+
+
+
+
+
+		</li>
+                                        </div>
+  <div class="espaco1"></div>
+
+				            <div class="borda_mobile">
+
+     
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+			                        <div class="titulo_noticias1"><a title="Cemitérios de Limeira devem receber 7 mil visitantes no fim de semana" href="https://cordeiropolis.corderovirtual.com.br/noticias/21315/regiao/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel"><div class="categoria_laranja">Região</div><div class="espaco1"></div>Cemitérios de Limeira devem receber 7 mil visitantes no fim de semana</a></div>
+
+			<a  title="Cemitérios de Limeira devem receber 7 mil visitantes no fim de semana" href="https://cordeiropolis.corderovirtual.com.br/noticias/21315/regiao/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel">
+			<img class="fotos_noticias1" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21315/cemiterios-de-limeira-devem-receber-7-mil-visitantes-no-fim-de-semana-20220812112141372605686a62ca3ac56522d39953e20a-.jpg" alt="Cemitérios de Limeira devem receber 7 mil visitantes no fim de semana" /></a>
+
+			</div>
+
+
+
+
+
+		</li>
+                                        </div>
+  <div class="espaco1"></div>
+
+				            <div class="borda_mobile">
+
+     
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+			                        <div class="titulo_noticias1"><a title="Cordeirópolis conquista medalha de prata em Campeonato Paulista de Luta de Braço" href="https://cordeiropolis.corderovirtual.com.br/noticias/21314/esportes/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel"><div class="categoria_laranja">Esportes</div><div class="espaco1"></div>Cordeirópolis conquista medalha de prata em Campeonato Paulista de Luta de Braço</a></div>
+
+			<a  title="Cordeirópolis conquista medalha de prata em Campeonato Paulista de Luta de Braço" href="https://cordeiropolis.corderovirtual.com.br/noticias/21314/esportes/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel">
+			<img class="fotos_noticias1" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21314/cordeiropolis-conquista-medalha-de-prata-em-campeonato-paulista-de-luta-de-braco-20220812065815f5f5b9dedf8b6dec00e6fef5ba7c7380-.jpg" alt="Cordeirópolis conquista medalha de prata em Campeonato Paulista de Luta de Braço" /></a>
+
+			</div>
+
+
+
+
+
+		</li>
+                                        </div>
+  <div class="espaco1"></div>
+
+				            <div class="borda_mobile">
+
+     
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+			                        <div class="titulo_noticias1"><a title="Corretora de luxo brasileira é convidada para seleto evento ‘40 under 40’, em Nova York" href="https://cordeiropolis.corderovirtual.com.br/noticias/21313/brasil/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel"><div class="categoria_laranja">Brasil</div><div class="espaco1"></div>Corretora de luxo brasileira é convidada para seleto evento ‘40 under 40’, em Nova York</a></div>
+
+			<a  title="Corretora de luxo brasileira é convidada para seleto evento ‘40 under 40’, em Nova York" href="https://cordeiropolis.corderovirtual.com.br/noticias/21313/brasil/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel">
+			<img class="fotos_noticias1" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21313/corretora-de-luxo-brasileira-e-convidada-para-seleto-evento-40-under-40-em-nova-york-20220812065616133b174d6c62256fc47c859dae00e92e-.jpeg" alt="Corretora de luxo brasileira é convidada para seleto evento ‘40 under 40’, em Nova York" /></a>
+
+			</div>
+
+
+
+
+
+		</li>
+                                        </div>
+  <div class="espaco1"></div>
+
+				            <div class="borda_mobile">
+
+     
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+			                        <div class="titulo_noticias1"><a title="O valor de um abraço" href="https://cordeiropolis.corderovirtual.com.br/noticias/21312/cultura/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel"><div class="categoria_laranja">Cultura</div><div class="espaco1"></div>O valor de um abraço</a></div>
+
+			<a  title="O valor de um abraço" href="https://cordeiropolis.corderovirtual.com.br/noticias/21312/cultura/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel">
+			<img class="fotos_noticias1" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21312/o-valor-de-um-abraco-20220812065005d53b769e7f05a0cbbbc17a322fc4391e-.jpg" alt="O valor de um abraço" /></a>
+
+			</div>
+
+
+
+
+
+		</li>
+                                        </div>
+  <div class="espaco1"></div>
+
+				            <div class="borda_mobile">
+
+     
+
+		<li>
+
+
+
+
+			<div class="fotos_menores_internas">
+
+
+			
+
+			                        <div class="titulo_noticias1"><a title="Estudantes da rede municipal de Limeira visitam “Casa Mais Sustentável”" href="https://cordeiropolis.corderovirtual.com.br/noticias/21311/educacao/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel"><div class="categoria_laranja">Educação</div><div class="espaco1"></div>Estudantes da rede municipal de Limeira visitam “Casa Mais Sustentável”</a></div>
+
+			<a  title="Estudantes da rede municipal de Limeira visitam “Casa Mais Sustentável”" href="https://cordeiropolis.corderovirtual.com.br/noticias/21311/educacao/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel">
+			<img class="fotos_noticias1" src="https://cordeiropolis.corderovirtual.com.br/foto_maior/21311/estudantes-da-rede-municipal-de-limeira-visitam-casa-mais-sustentavel-20220812064644249ccb158c59d67d4dfa33d874fb0c4a-.jpg" alt="Estudantes da rede municipal de Limeira visitam “Casa Mais Sustentável”" /></a>
+
+			</div>
+
+
+
+
+
+		</li>
+                                        </div>
+  <div class="espaco1"></div>
+
+					</ul>
+</div>
+
+
+
+<div id="todas"><a href="https://cordeiropolis.corderovirtual.com.br/noticias-online" title="Toda as Notícias">TODAS AS NOTÍCIAS</a></div>
+
+</div>
+
+
+<div class="desabilita_cel">
+	
+	<div id="direito_interna">
+
+	
+	
+
+	
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Lateral Internas2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="8092345070"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<div class="espaco1"></div>
+
+
+<div class="espaco1"></div>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Lateral Internas2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="8092345070"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<div class="espaco1"></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Lateral Internas2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="8092345070"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<div class="espaco1"></div>
+
+<a href="https://www.creativesite.com.br/criacao-de-lojas-virtuais"><img src="https://cordeiropolis.corderovirtual.com.br/banners/12.jpg"></a>
+
+<div class="espaco1"></div>
+
+
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Lateral Internas -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-2465130485636619"
+         data-ad-slot="5058331085"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+
+
+    
+<div class="espaco1"></div>
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Lateral Internas2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="8092345070"></ins>
+<script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		﻿        </div>
+
+</div>
+
+	<div class="limpar"></div>
+
+        </div>
+
+
+
+
+
+
+<div id="feed_google">
+    <div id="feed_google1">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="5527062963"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div id="rodape_todas1">
+
+    <div id="rodape_todas2">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="5778306412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+    </div>
+
+</div>
+
+
+<div id="rodape_todas1">
+
+    <div id="rodape_todas2">
+        <div class="desabilita_cel">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Topo_Topo2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2465130485636619"
+     data-ad-slot="1753885879"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class="espaco2"></div>
+
+</div>
+
+
+<div class="desabilita_computador">
+<div class="centraliza">
+
+  <a target="_blank" href="#">
+    <img alt="Clique Aqui" class="imagem_responsiva3" src="https://cordeiropolis.corderovirtual.com.br/banners/" /></a>
+<div class="espaco2"></div>
+</div>
+</div>
+
+
+
+
+    </div>
+
+</div>
+
+
+        
+        <div id="rodape_inteiro">
+
+            <div id="rodape">﻿
+
+
+<div id="rodape1">2001-2022 - Portal Cordero Virtual <div class="espaco_cel1"></div> CNPJ: 24.503.804/0001-71</div>
+
+<div id="rodape2">
+
+    <a href="https://www.creativesite.com.br/criacao-de-sites">Criação de Sites</a> | <a href="https://www.creativesite.com.br/marketing-digital">Marketing Digital</a> | <a href="https://cordeiropolis.corderovirtual.com.br/anuncie" title="Anuncie sua Empresa">Anuncie</a> | <a href="https://cordeiropolis.corderovirtual.com.br/comunicar-erro" title="Comunicar Erro">Comunicar Erro</a> | <a href="https://cordeiropolis.corderovirtual.com.br/fale-conosco" title="Fale Conosco">Fale Conosco</a> | <a href="https://cordeiropolis.corderovirtual.com.br/termos-e-condicoes-de-uso" title="Termos e Condições de Uso">Termos e Condições de Uso</a> |  <div class="espaco_cel1"></div> <a href="https://www.creativesite.com.br" title="Criação de Sites, Lojas Virtuais e Marketing Digital"><img class="alinhamento_imagem" src="https://www.creativesite.com.br/imagens/creative.png"></a>
+
+</div>
+</div>
+
+        </div>
+
+
+
+
+
+
+  </body>
+</html>

@@ -1,3 +1,11 @@
 .b{
   width: 10%;
-  }
+}
+h1{
+  background: red;
+  font-size: 70px; text-align: center; color: black
+}
+
+h3{
+  text-align: center;
+}
